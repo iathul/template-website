@@ -337,6 +337,7 @@ pre {
         justify-self: center;
         margin: auto;
         animation: slideInFromBottom 1s ease-in;
+    
     }
 
     .cli .grid > *:first-child {
@@ -376,6 +377,11 @@ pre {
     .navbar ul{
         padding: 10px;
         background-color: rgba(0,0,0,0.2);
+    }
+
+    .showcase-form {
+       width: 300px;
+    
     }
 
 }
